@@ -92,5 +92,3 @@ MIT License - feel free to use for educational purposes.
 ## Author
 
 [Sghaier9](https://github.com/Sghaier9)
-
-*This project was created as part of a Computer Graphics course (TP Introduction Infographie).* 
